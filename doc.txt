@@ -1,0 +1,10 @@
+ls => listing all files in current directory
+
+git init => repo initialize
+
+ls -a
+
+git add. => all file starting area =>.all files in current directory
+= git add index.html
+
+
