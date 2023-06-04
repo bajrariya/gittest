@@ -7,4 +7,15 @@ ls -a
 git add. => all file starting area =>.all files in current directory
 = git add index.html
 
+git commit -m "message" => create a copy of current code (snapshot)
+
+git log => list all commit
+
+git remote add origin https://github.com/bajrariya/gittest.git => links local repo to remote repo
+
+git remote -v => lists all the linked remote repos
+
+git push origin branch_name
+
+git branch => list all the branches
 
