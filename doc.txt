@@ -19,3 +19,8 @@ git push origin branch_name
 
 git branch => list all the branches
 
+future commits :
+-git add.
+-git commit -m 'small changes'
+-git push origin branch_name
+
